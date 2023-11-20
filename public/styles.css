@@ -1,0 +1,56 @@
+header {
+    background-color: #BEADFA;
+    height: 50px;
+    width: 340px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    left: 8%;
+    font-size: large;
+    border-radius: 25px;
+    padding: 0 0 0 10px;
+    box-shadow: 3px 3px grey;
+}
+
+body {
+    background-color: #DFCCFB;
+}
+
+footer {
+    text-align: center;
+    bottom: 0;
+    width: 90%;
+
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+hr {
+    background-color: #FFF8C9;
+    height: 3px;
+    width: 20px;
+    border: 0;
+}
+
+.letter {
+    margin: 2rem 6rem;
+    padding: 10px 50px 50px 50px;
+    font-family: 'Noto Sans SC', sans-serif;
+    background-color: #D0BFFF;
+    border-radius: 50px;
+    box-shadow: 7px 7px #BEADFA;
+}
+
+.bc {
+    width: 90%;
+    height: 60%;
+    padding: 2rem;
+    background-color: #FACBEA;
+    border-radius: 50px;
+    box-shadow: 7px 7px #BEADFA;
+}
+
+
+.picture1 {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: large;
+    margin: 6rem 6rem;
+}
