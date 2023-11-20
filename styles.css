@@ -31,7 +31,7 @@ hr {
 }
 
 .letter {
-    margin: 2rem 6rem;
+    margin: 1rem;
     padding: 10px 50px 50px 50px;
     font-family: 'Noto Sans SC', sans-serif;
     background-color: #D0BFFF;
@@ -52,5 +52,5 @@ hr {
 .picture1 {
     font-family: 'Noto Sans SC', sans-serif;
     font-size: large;
-    margin: 6rem 6rem;
+    margin: 1rem;
 }
